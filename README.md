@@ -63,7 +63,7 @@ Ensure that both the frontend and backend are running simultaneously to fully us
 
 Make sure you have MongoDB installed and running locally or replace the connection string in app.js with your remote MongoDB URI.
 
-For any issues or questions, feel free to reach out during class or post them in the project discussion forum.
+For any issues or questions, feel free to reach out during class .
 
 
 
